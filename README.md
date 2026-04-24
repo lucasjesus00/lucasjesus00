@@ -1,73 +1,73 @@
-# Hey there! 👋 I'm Lucas
+# Olá! 👋 Sou Lucas
 
-Welcome to my GitHub profile! I'm a passionate developer committed to building meaningful software and contributing to open source communities.
-
----
-
-## 🚀 About Me
-
-I'm fascinated by solving complex problems through clean, efficient code. I love collaborating with other developers, learning new technologies, and sharing knowledge with the community. When I'm not coding, you'll find me exploring the latest tech trends or working on side projects.
+Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por criar software significativo e contribuir para comunidades de código aberto.
 
 ---
 
-## 💻 Technical Skills
+## 🚀 Sobre Mim
 
-- **Languages**: JavaScript, Python, TypeScript, Java
+Sou fascinado por resolver problemas complexos através de código limpo e eficiente. Adoro colaborar com outros desenvolvedores, aprender novas tecnologias e compartilhar conhecimento com a comunidade. Quando não estou codificando, você me encontrará explorando as últimas tendências de tecnologia ou trabalhando em projetos paralelos.
+
+---
+
+## 💻 Habilidades Técnicas
+
+- **Linguagens**: JavaScript, Python, TypeScript, Java
 - **Frontend**: React, Vue.js, HTML5, CSS3, Tailwind CSS
-- **Backend**: Node.js, Express, Django, REST APIs
-- **Databases**: PostgreSQL, MongoDB, MySQL
-- **Tools & Platforms**: Git, Docker, CI/CD, AWS, GitHub Actions
-- **Other**: RESTful Architecture, Agile Development, Problem Solving
+- **Backend**: Node.js, Express, Django, APIs REST
+- **Banco de Dados**: PostgreSQL, MongoDB, MySQL
+- **Ferramentas & Plataformas**: Git, Docker, CI/CD, AWS, GitHub Actions
+- **Outros**: Arquitetura REST, Desenvolvimento Ágil, Resolução de Problemas
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Projetos em Destaque
 
-### Project One
-Brief description of what this project does and the technologies used. [View Repository](https://github.com/lucasjesus00/project-one)
+### Projeto Um
+Descrição breve do que este projeto faz e as tecnologias utilizadas. [Ver Repositório](https://github.com/lucasjesus00/projeto-um)
 
-### Project Two
-Brief description of what this project does and the technologies used. [View Repository](https://github.com/lucasjesus00/project-two)
+### Projeto Dois
+Descrição breve do que este projeto faz e as tecnologias utilizadas. [Ver Repositório](https://github.com/lucasjesus00/projeto-dois)
 
-### Project Three
-Brief description of what this project does and the technologies used. [View Repository](https://github.com/lucasjesus00/project-three)
-
----
-
-## 📊 GitHub Statistics
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasjesus00&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasjesus00&layout=compact&theme=radical)
+### Projeto Três
+Descrição breve do que este projeto faz e as tecnologias utilizadas. [Ver Repositório](https://github.com/lucasjesus00/projeto-tres)
 
 ---
 
-## 🤝 Let's Connect
+## 📊 Estatísticas do GitHub
 
-I'm always open to interesting conversations and collaboration opportunities!
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=lucasjesus00&show_icons=true&theme=radical)
 
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
-- **Portfolio**: [yourwebsite.com](https://yourwebsite.com)
+![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasjesus00&layout=compact&theme=radical)
 
 ---
 
-## 💡 Fun Facts
+## 🤝 Vamos Conectar
 
-- 🎯 Goal for 2026: Contribute to 5+ open source projects
-- 🧠 Currently learning: Advanced system design and cloud architecture
-- 🎮 Fun fact: I enjoy building projects just for the fun of it!
+Estou sempre aberto a conversas interessantes e oportunidades de colaboração!
+
+- **Email**: seu.email@example.com
+- **LinkedIn**: [Seu Perfil LinkedIn](https://linkedin.com/in/seuperfil)
+- **Twitter**: [@seuhandle](https://twitter.com/seuhandle)
+- **Portfólio**: [seusite.com](https://seusite.com)
 
 ---
 
-## 📝 Latest Blog Posts
+## 💡 Curiosidades
+
+- 🎯 Meta para 2026: Contribuir para 5+ projetos de código aberto
+- 🧠 Aprendendo no momento: Design avançado de sistemas e arquitetura em nuvem
+- 🎮 Curiosidade: Adoro construir projetos apenas pelo prazer de fazê-lo!
+
+---
+
+## 📝 Últimas Postagens do Blog
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-⭐ **If you find my work interesting, feel free to star my repositories!**
+⭐ **Se você acha meu trabalho interessante, fique à vontade para dar uma estrela nos meus repositórios!**
 
-Happy coding! 🚀
+Feliz codificação! 🚀
