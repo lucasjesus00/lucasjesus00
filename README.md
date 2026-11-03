@@ -46,8 +46,8 @@ Descrição breve do que este projeto faz e as tecnologias utilizadas. [Ver Repo
 Estou sempre aberto a conversas interessantes e oportunidades de colaboração!
 
 - **Email**: lucasdevmendes@gmail.com
-- **LinkedIn**: [Seu Perfil LinkedIn](https://www.linkedin.com/in/lucas-mendes-831018404 )
-- **Portfólio**: [seusite.com](https://seusite.com)
+- **LinkedIn**: [Meu perfil no linkedin](https://www.linkedin.com/in/lucas-mendes-831018404 )
+- **Portfólio**: [meu portifólioicom](https://seusite.com)
 
 ---
 
