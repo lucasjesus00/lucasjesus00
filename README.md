@@ -12,10 +12,9 @@ Sou fascinado por resolver problemas complexos através de código limpo e efici
 
 ## 💻 Habilidades Técnicas
 
-- **Linguagens**: JavaScript, Python, TypeScript, Java
-- **Frontend**: React, Vue.js, HTML5, CSS3, Tailwind CSS
-- **Backend**: Node.js, Express, Django, APIs REST
-- **Banco de Dados**: PostgreSQL, MongoDB, MySQL
+- **Linguagens**: JavaScript, Python, SQL, Mysql
+- **Frontend**: React, HTML5, CSS3
+- **Banco de Dados**: Sql, MySQL
 - **Ferramentas & Plataformas**: Git, Docker, CI/CD, AWS, GitHub Actions
 - **Outros**: Arquitetura REST, Desenvolvimento Ágil, Resolução de Problemas
 
@@ -46,18 +45,9 @@ Descrição breve do que este projeto faz e as tecnologias utilizadas. [Ver Repo
 
 Estou sempre aberto a conversas interessantes e oportunidades de colaboração!
 
-- **Email**: seu.email@example.com
-- **LinkedIn**: [Seu Perfil LinkedIn](https://linkedin.com/in/seuperfil)
-- **Twitter**: [@seuhandle](https://twitter.com/seuhandle)
+- **Email**: lucasdevmendes@gmail.com
+- **LinkedIn**: [Seu Perfil LinkedIn](https://www.linkedin.com/in/lucas-mendes-831018404 )
 - **Portfólio**: [seusite.com](https://seusite.com)
-
----
-
-## 💡 Curiosidades
-
-- 🎯 Meta para 2026: Contribuir para 5+ projetos de código aberto
-- 🧠 Aprendendo no momento: Design avançado de sistemas e arquitetura em nuvem
-- 🎮 Curiosidade: Adoro construir projetos apenas pelo prazer de fazê-lo!
 
 ---
 
@@ -69,5 +59,3 @@ Estou sempre aberto a conversas interessantes e oportunidades de colaboração!
 ---
 
 ⭐ **Se você acha meu trabalho interessante, fique à vontade para dar uma estrela nos meus repositórios!**
-
-Feliz codificação! 🚀
