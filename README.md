@@ -51,7 +51,7 @@ Estou sempre aberto a conversas interessantes e oportunidades de colaboração!
 
 - **Email**: lucasdevmendes@gmail.com
 - **LinkedIn**: [Meu perfil no linkedin](https://www.linkedin.com/in/lucas-mendes-831018404 )
-- **Portfólio**: [meu portifólioicom](https://seusite.com)
+- **Portfólio**: [meu portifólio](https://seusite.com)
 
 ---
 
