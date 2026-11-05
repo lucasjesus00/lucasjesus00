@@ -12,8 +12,9 @@ Sou fascinado por resolver problemas complexos através de código limpo e efici
 
 ## 💻 Habilidades Técnicas
 
-- **Linguagens**: JavaScript, Python, SQL, Mysql
-- **Frontend**: React, HTML5, CSS3
+- **Linguagens**: JavaScript, Python, SQL, Mysql, Ruby, react
+- **Frontend**: React, HTML5, CSS3, React
+- **Backend**: Python, C, Ruby
 - **Banco de Dados**: Sql, MySQL
 - **Ferramentas & Plataformas**: Git, Docker, CI/CD, AWS, GitHub Actions
 - **Outros**: Arquitetura REST, Desenvolvimento Ágil, Resolução de Problemas
