@@ -34,17 +34,14 @@ Descrição breve do que este projeto faz e as tecnologias utilizadas. [Ver Repo
 
 ---
 
-
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  
-  ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=lucasjesus00&show_icons=true&theme=radical)
 
-  ![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasjesus00&layout=compact&theme=radical)
+<img src="https://github-stats-extended.vercel.app/api?username=lucasjesus00&show_icons=true&theme=radical" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=lucasjesus00&layout=compact&theme=radical" width="48%" />
 
 </div>
-
 
 ---
 
