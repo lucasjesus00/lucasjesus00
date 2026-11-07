@@ -52,15 +52,8 @@ Página dedicada ao poema *Cordel Moderno*, de Milton Duarte, com leitura vertic
 Estou sempre aberto a conversas interessantes e oportunidades de colaboração!
 
 - **Email**: lucasdevmendes@gmail.com
-- **LinkedIn**: [Meu perfil no linkedin](https://www.linkedin.com/in/lucas-mendes-831018404 )
-- **Portfólio**: [meu portifólio](https://seusite.com)
-
----
-
-## 📝 Últimas Postagens do Blog
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- **LinkedIn**: [Acesse meu perfil no linkedin aqui!](https://www.linkedin.com/in/lucas-mendes-831018404 )
+- **Portfólio**: [Acesse meu portifólio aqui!](https://seusite.com)
 
 ---
 
