@@ -24,10 +24,12 @@ Sou fascinado por resolver problemas complexos através de código limpo e efici
 ## 🌟 Projetos em Destaque
 
 ### Projeto Um
-Repositório acadêmico com materiais, exercícios e projetos desenvolvidos no curso de Engenharia de Software da UDF. [Ver Repositório](https://github.com/lucasjesus00/Engenharia-de-software---UDF)
+Repositório acadêmico com materiais, exercícios e projetos desenvolvidos no curso de Engenharia de Software da UDF. 
+[Ver Repositório](https://github.com/lucasjesus00/Engenharia-de-software---UDF)
 
 ### Projeto Dois
-Página responsiva sobre a história do mascote do Android, criada com HTML e CSS, com imagens, links e vídeo incorporado. [Ver Repositório](https://github.com/lucasjesus00/projeto-android)
+Página responsiva sobre a história do mascote do Android, criada com HTML e CSS, com imagens, links e vídeo incorporado. 
+[Ver Repositório](https://github.com/lucasjesus00/projeto-android)
 
 ### Projeto Três
 Página dedicada ao poema *Cordel Moderno*, de Milton Duarte, com leitura vertical e fundos ilustrados, desenvolvida com HTML e CSS. [Ver Repositório](https://github.com/lucasjesus00/Projeto-Cordel)
