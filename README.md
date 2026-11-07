@@ -24,13 +24,13 @@ Sou fascinado por resolver problemas complexos através de código limpo e efici
 ## 🌟 Projetos em Destaque
 
 ### Projeto Um
-Descrição breve do que este projeto faz e as tecnologias utilizadas. [Ver Repositório](https://github.com/lucasjesus00/projeto-um)
+Descrição breve do que este projeto faz e as tecnologias utilizadas. [Ver Repositório](https://github.com/lucasjesus00/Engenharia-de-software---UDF)
 
 ### Projeto Dois
-Descrição breve do que este projeto faz e as tecnologias utilizadas. [Ver Repositório](https://github.com/lucasjesus00/projeto-dois)
+Descrição breve do que este projeto faz e as tecnologias utilizadas. [Ver Repositório](https://github.com/lucasjesus00/projeto-android)
 
 ### Projeto Três
-Descrição breve do que este projeto faz e as tecnologias utilizadas. [Ver Repositório](https://github.com/lucasjesus00/projeto-tres)
+Descrição breve do que este projeto faz e as tecnologias utilizadas. [Ver Repositório](https://github.com/lucasjesus00/Projeto-Cordel)
 
 ---
 
