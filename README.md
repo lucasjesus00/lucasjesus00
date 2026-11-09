@@ -1,73 +1,78 @@
-# Olá, eu sou Lucas Mendes 👋
-
-Desenvolvedor em formação em Engenharia de Software, com foco em desenvolvimento web, interfaces responsivas e organização de projetos. Estou aprimorando minhas habilidades em HTML, CSS, JavaScript, Git/GitHub, banco de dados e boas práticas de desenvolvimento.
+# Lucas Mendes 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Desenvolvedor+em+formação;Estudante+de+Engenharia+de+Software;Focado+em+Web+e+Projetos+Práticos" alt="Typing SVG" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1100&color=7C3AED&center=true&vCenter=true&width=800&lines=Desenvolvedor+em+formação;Estudante+de+Engenharia+de+Software;Focado+em+Front-end+e+Projetos+Práticos" alt="Typing SVG" />
+
 </div>
+
+<p align="center">
+  <strong>💻 Desenvolvedor Web em formação | Engenharia de Software | GitHub & boas práticas</strong>
+</p>
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou apaixonado por transformar ideias em soluções funcionais, com código limpo, layouts intuitivos e boa experiência de usuário. Tenho me dedicado ao estudo de tecnologias web e à criação de projetos práticos que reforçam conceitos de front-end, organização de código e trabalho em equipe.
+Sou um estudante de Engenharia de Software apaixonado por criar soluções digitais com foco em usabilidade, organização e qualidade de código. Tenho me dedicado ao desenvolvimento web, com ênfase em HTML, CSS, JavaScript e projetos práticos que fortalecem minhas habilidades técnicas e de resolução de problemas.
 
-Atualmente, meu objetivo é aprofundar meus conhecimentos em desenvolvimento web, banco de dados e ferramentas de colaboração, criando projetos que demonstrem minha evolução técnica e meu raciocínio de solução.
+Minha rotina envolve aprender novas tecnologias, construir interfaces responsivas e desenvolver projetos que expressem criatividade, lógica e boa experiência de usuário. Estou em constante evolução, buscando unir teoria e prática no caminho profissional.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Stack Principal
 
-### Linguagens
+### Front-end
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Backend / Dados
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Ferramentas e plataformas
+### Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### Em estudo / aprofundamento
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
 ---
 
 ## 🌟 Projetos em destaque
 
-### 1) Engenharia de Software — UDF
-Repositório acadêmico com materiais, atividades e projetos desenvolvidos durante o curso de Engenharia de Software.
+### [Engenharia de Software — UDF](https://github.com/lucasjesus00/Engenharia-de-software---UDF)
+Repositório acadêmico com materiais, atividades e projetos desenvolvidos ao longo do curso de Engenharia de Software.
 
-[🔗 Ver repositório](https://github.com/lucasjesus00/Engenharia-de-software---UDF)
+### [Projeto Android](https://github.com/lucasjesus00/projeto-android)
+Página responsiva sobre a história do mascote Android, desenvolvida em HTML e CSS.
 
-### 2) Projeto Android
-Página responsiva sobre a história do mascote do Android, desenvolvida com HTML e CSS.
+### [Projeto Cordel](https://github.com/lucasjesus00/Projeto-Cordel)
+Landing page inspirada no poema de Milton Duarte, com visual moderno e responsivo.
 
-[🔗 Ver repositório](https://github.com/lucasjesus00/projeto-android)
-
-### 3) Projeto Cordel
-Página inspirada no poema de Milton Duarte, com layout visualmente rico e responsivo.
-
-[🔗 Ver repositório](https://github.com/lucasjesus00/Projeto-Cordel)
-
-### 4) Projeto Login
-Interface de login com foco em design e usabilidade.
-
-[🔗 Ver repositório](https://github.com/lucasjesus00/projeto-login)
+### [Projeto Login](https://github.com/lucasjesus00/projeto-login)
+Interface de autenticação com foco em design, organização e usabilidade.
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasjesus00&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasjesus00&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasjesus00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasjesus00&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
+
+---
+
+## 📌 Objetivos
+
+- Desenvolver projetos reais e bem documentados
+- Aperfeiçoar minhas habilidades em front-end e desenvolvimento web
+- Aprender mais sobre banco de dados, APIs e arquitetura de software
+- Construir uma presença profissional forte no GitHub
+- Contribuir com projetos e oportunidades de colaboração
 
 ---
 
@@ -81,4 +86,6 @@ Estou sempre aberto a oportunidades de colaboração, aprendizado e projetos int
 
 ---
 
-⭐ Se você quiser acompanhar meus avanços e projetos, fique à vontade para explorar meus repositórios e acompanhar o desenvolvimento.
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20work-00C853?style=for-the-badge&logo=github&logoColor=white" alt="Open to work" />
+</p>
