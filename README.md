@@ -77,7 +77,7 @@ Interface de login desenvolvida para praticar HTML e CSS.
 
 ## 🤝 Conecte-se comigo
 
--    **Portifólio:**[Meu Portifólio](https://lucasjesus00.github.io/lucas-mendes-portfolio)
+-    **Portifólio:** [Meu Portifólio](https://lucasjesus00.github.io/lucas-mendes-portfolio)
 - 📧 **E-mail:** [lucasdevmendes@gmail.com](mailto:lucasdevmendes@gmail.com)
 - 💼 **LinkedIn:** [Lucas Mendes](https://www.linkedin.com/in/lucas-mendes-831018404)
 - 🌐 **GitHub:** [@lucasjesus00](https://github.com/lucasjesus00)
